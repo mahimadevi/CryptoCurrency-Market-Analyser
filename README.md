@@ -60,6 +60,7 @@ Trending News
 
 # Credits
 CoinRanking API - https://rapidapi.com/Coinranking/api/...
+
 Bing News Search - https://rapidapi.com/microsoft-azure-...
 
 # Demo
