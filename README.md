@@ -12,6 +12,7 @@ Given its recent discovery, there is an immense lack of trustworthy resources, l
 For our Project, we propose the development of a web-based service that will solve the above mentioned dilemma .
 The Cryptocurrency Market Analyser will provide an easy to navigate website that will keep the users updated of the latest Cryptocurrency market , at all times. It will also let users analyse the market prices and create personalized portfolios.
 
+
 # How to Install and Run the Project
 
 
@@ -47,6 +48,19 @@ CryptoExchanges
 Trending News
 
 ![news](https://user-images.githubusercontent.com/72203327/148954228-05163470-11b9-4743-9dc8-1d96a8e7ccb6.jpeg)
+
+# TechStack
+
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. REACT
+5. API
+6. NODEJS
+
+# Credits
+CoinRanking API - https://rapidapi.com/Coinranking/api/...
+Bing News Search - https://rapidapi.com/microsoft-azure-...
 
 # Demo
 Website: https://cryptocurrencymarkettracker.netlify.app/
